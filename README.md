@@ -1,3 +1,38 @@
+## Nest.js TypeORM PostgreSQL New Project Template
+
+This template provides a minimal setup to get Nestjs with Typescript and TypeORM working.
+Here it was installed/done somethigs to basic setup like:
+
+- TypeORM as ORM technology 🌟
+- Class-Validator Class-Transformer for dtos management 📊
+- PostgreSQL for database (using ElefantSQL as "PostegreSQL as service") 👩‍💻
+- Error Inteceptor 🖥️
+- Basic Structure for login ⭐
+- Auth Middleware to validate Bearer Token in the requests 🖥️
+- Create user route exemple with cripted password 👩‍💻
+
+## In this project you will find:
+
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB&style=for-the-badge)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![TypeORM](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeORM/typeorm1.svg)
+
+## For contact me:
+
+<!-- Social Links -->
+<div> 
+  <a href="https://instagram.com/pedroaugustofb" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://wa.me/5583986251686" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="mailto:pedroaugustofolb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/pedrofoltram/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://github.com/pedroaugustofb" target="_blank"><img src="https://img.shields.io/badge/Github-121013?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+</div>
+
+### Nest.js Original README
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
